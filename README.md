@@ -6,3 +6,6 @@ Developed a medical image analysis system to assist in diagnosing respiratory di
 
 # 🔗 Deployed Application:
 https://xai-cxr.streamlit.app/
+
+# Related Documents
+https://drive.google.com/drive/folders/12-8uBXmhO864jA8uSmJig0lMpWY-iU_F?usp=sharing
